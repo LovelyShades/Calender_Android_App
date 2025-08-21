@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Change the parent theme to an AppCompat variant -->
+    <style name="Theme.Calendar_zme538" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme attributes as needed -->
+    </style>
+    <style name="PurpleRoundButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/round_purple_button</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+
+        <!-- Optionally add padding, text size, etc. -->
+    </style>
+</resources>
