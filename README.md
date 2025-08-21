@@ -75,6 +75,7 @@ The parser uses line.split(",", 7) to preserve commas inside the description.
 1) Clone
 
 git clone https://github.com/LovelyShades/Calender_Android_App.git
+
 2) Open in Android Studio
 File → Open… and select the project folder.
 
