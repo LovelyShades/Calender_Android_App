@@ -21,11 +21,13 @@ Browse events in a fast list, **sort by Date / Name / Category**, and tap into a
 
 ---
 
-## 📸 Screens (optional)
-> Add your screenshots or short GIFs here if you have them:
->
-> - `docs/screen_list.png`
-> - `docs/screen_detail.png`
+## 📸 Screens
+
+<p align="center">
+  <img src="docs/screen_list.png" width="280" alt="Events list">
+  <img src="docs/screen_detail.png" width="280" alt="Event detail">
+</p>
+
 
 ```html
 <p align="center">
