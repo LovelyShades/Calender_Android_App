@@ -25,12 +25,12 @@ Browse events in a fast list, **sort by Date / Name / Category**, and tap into a
 
 <p align="center">
   <figure>
-    <img src="docs/screen_list.png" width="280" alt="Events list">
     <figcaption>📋 Event List Screen</figcaption>
+    <img src="docs/screen_list.png" width="280" alt="Events list">
   </figure>
   <figure>
-    <img src="docs/screen_detail.png" width="280" alt="Event detail">
     <figcaption>ℹ️ Event Detail Screen</figcaption>
+    <img src="docs/screen_detail.png" width="280" alt="Event detail">
   </figure>
 </p>
 
