@@ -69,7 +69,7 @@ The parser uses line.split(",", 7) to preserve commas inside the description.
 🚀 Getting Started
 1) Clone
 
-git clone https://github.com/<YOUR-USER>/<YOUR-REPO>.git
+git clone https://github.com/LovelyShades/Calender_Android_App.git
 2) Open in Android Studio
 File → Open… and select the project folder.
 
@@ -147,7 +147,7 @@ This project is licensed under the MIT License to enable free use in learning, p
 
 MIT License
 
-Copyright (c) 2025 <Your Name>
+Copyright (c) 2025 Alanna Matundan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 ...
