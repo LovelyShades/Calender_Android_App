@@ -37,10 +37,6 @@ Browse events in a fast list, **sort by Date / Name / Category**, and tap into a
 
 
 ```html
-<p align="center">
-  <img src="docs/screen_list.png" width="280" alt="Events list">
-  <img src="docs/screen_detail.png" width="280" alt="Event detail">
-</p>
 
 🧱 Project Structure (key files)
 
